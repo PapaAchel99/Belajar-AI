@@ -3,4 +3,4 @@ Belajar AI
 - Belajar Cara Membuat Web Design 
 - Belajar Cara Membuat Otomasi Pekerjaan  
 - Belajar Membuat Web Dashboard Interaktif
-- Membuat Web untuk Online Shop
+- Membuat Web untuk Toko Jualan Online
