@@ -2,3 +2,4 @@ Belajar AI
 - Belajar Cara Membuat Video Generate AI
 - Belajar Cara Membuat Web Design 
 - Belajar Cara Membuat Otomasi Pekerjaan  
+- Belajar Membuat Web Dashboard Interaktif
